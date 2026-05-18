@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p200911-e2064980.adobeaemcloud.com/bin/franklin.delivery/puttaraphong/aem-ue/main"
+    url: "https://author-p200911-e2064980.adobeaemcloud.com/bin/franklin.delivery/puttaraphong/aem-ue-site/main"
     type: "markup"
     suffix: ".html"
