@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/wknd-xwalk/:/"
+    "/content/wknd-site/:/"
   ],
   "includes": [
-    "/content/wknd-xwalk/"
+    "/content/wknd-site/"
   ]
 }
