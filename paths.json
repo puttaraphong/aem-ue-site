@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/content/wknd-site/:/"
+    "/content/wknd-site/:/",
+    "/content/wknd-site/redirects:/redirects.json"
   ],
   "includes": [
     "/content/wknd-site/"
